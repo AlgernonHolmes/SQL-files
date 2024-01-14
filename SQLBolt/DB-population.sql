@@ -90,4 +90,6 @@ INSERT INTO Employees (Role, Name, Building_name, Years_employed) VALUES
     ('Artist', 'Brandon J.', '2w', 7),
     ('Manager', 'Scott K.', '1e', 9),
     ('Manager', 'Shirlee M.', '1e', 3),
-    ('Manager', 'Daria O.', '2w', 6);
+    ('Manager', 'Daria O.', '2w', 6),
+    ('Engineer', 'Yancy I.', NULL, 0),
+    ('Artist', 'Oliver P.', NULL, 0);
